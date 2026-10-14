@@ -23,7 +23,7 @@ AWS Certified Cloud Practitioner and AWS re/Start graduate, expanding my skills 
 ## Focus
 
 ```text
-Infrastructure • Linux • Cloud • DevOps • AWS • Docker • Automation
+Infrastructure • Linux • Cloud • DevOps • AWS • Docker • Automation • CI/CD
 ```
 
 ## What you will find here
