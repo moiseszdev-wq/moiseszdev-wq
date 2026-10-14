@@ -8,7 +8,7 @@ Currently studying AWS, Kubernetes, Docker and DevOps practices while building p
 ## Focus
 
 ```text
-Infrastructure • Linux • Cloud • DevOps • AWS • Kubernetes • Docker • Automation
+Infrastructure • Linux • Cloud • DevOps • AWS • Kubernetes • Docker • Automation • CI/CD
 ```
 
 ## What you will find here
