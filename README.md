@@ -8,8 +8,17 @@ AWS Certified Cloud Practitioner and AWS re/Start graduate, expanding my skills 
 
 ## Certifications & Badges
 
-- **AWS Certified Cloud Practitioner**
-- **AWS re/Start Graduate**
+<p>
+  <a href="https://www.credly.com/badges/07e8be8a-5441-4b41-a469-24c2b9c02199/public_url">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/dc78ade9-d61a-49ed-b583-173fc74380d8/public_url">
+    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/linkedin_thumb_image.png" alt="AWS re/Start Graduate" width="150" />
+  </a>
+</p>
+
+- **AWS Certified Cloud Practitioner** — Foundational AWS certification.
+- **AWS re/Start Graduate** — Cloud skills development program with hands-on labs.
 
 ## Focus
 
